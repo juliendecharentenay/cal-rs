@@ -1,0 +1,8 @@
+[package]
+name = "cal-rs-lib"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+utoipa = "5"
+serde_json = { version = "1" }
